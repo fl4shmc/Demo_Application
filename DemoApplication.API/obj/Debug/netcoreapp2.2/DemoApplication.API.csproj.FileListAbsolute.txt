@@ -1,0 +1,69 @@
+C:\Users\Sasiru Hapuarachchi\source\repos\DemoApplicaiton\DemoApplication.API\bin\Debug\netcoreapp2.2\DemoApplication.API.deps.json
+C:\Users\Sasiru Hapuarachchi\source\repos\DemoApplicaiton\DemoApplication.API\bin\Debug\netcoreapp2.2\DemoApplication.API.runtimeconfig.json
+C:\Users\Sasiru Hapuarachchi\source\repos\DemoApplicaiton\DemoApplication.API\bin\Debug\netcoreapp2.2\DemoApplication.API.runtimeconfig.dev.json
+C:\Users\Sasiru Hapuarachchi\source\repos\DemoApplicaiton\DemoApplication.API\bin\Debug\netcoreapp2.2\DemoApplication.API.dll
+C:\Users\Sasiru Hapuarachchi\source\repos\DemoApplicaiton\DemoApplication.API\bin\Debug\netcoreapp2.2\DemoApplication.API.pdb
+C:\Users\Sasiru Hapuarachchi\source\repos\DemoApplicaiton\DemoApplication.API\bin\Debug\netcoreapp2.2\DemoApplication.Entities.dll
+C:\Users\Sasiru Hapuarachchi\source\repos\DemoApplicaiton\DemoApplication.API\bin\Debug\netcoreapp2.2\DTO.dll
+C:\Users\Sasiru Hapuarachchi\source\repos\DemoApplicaiton\DemoApplication.API\bin\Debug\netcoreapp2.2\DTO.pdb
+C:\Users\Sasiru Hapuarachchi\source\repos\DemoApplicaiton\DemoApplication.API\bin\Debug\netcoreapp2.2\DemoApplication.Entities.pdb
+C:\Users\Sasiru Hapuarachchi\source\repos\DemoApplicaiton\DemoApplication.API\obj\Debug\netcoreapp2.2\DemoApplication.API.csprojAssemblyReference.cache
+C:\Users\Sasiru Hapuarachchi\source\repos\DemoApplicaiton\DemoApplication.API\obj\Debug\netcoreapp2.2\DemoApplication.API.csproj.CoreCompileInputs.cache
+C:\Users\Sasiru Hapuarachchi\source\repos\DemoApplicaiton\DemoApplication.API\obj\Debug\netcoreapp2.2\DemoApplication.API.RazorAssemblyInfo.cache
+C:\Users\Sasiru Hapuarachchi\source\repos\DemoApplicaiton\DemoApplication.API\obj\Debug\netcoreapp2.2\DemoApplication.API.RazorAssemblyInfo.cs
+C:\Users\Sasiru Hapuarachchi\source\repos\DemoApplicaiton\DemoApplication.API\obj\Debug\netcoreapp2.2\DemoApplication.API.AssemblyInfoInputs.cache
+C:\Users\Sasiru Hapuarachchi\source\repos\DemoApplicaiton\DemoApplication.API\obj\Debug\netcoreapp2.2\DemoApplication.API.AssemblyInfo.cs
+C:\Users\Sasiru Hapuarachchi\source\repos\DemoApplicaiton\DemoApplication.API\obj\Debug\netcoreapp2.2\DemoApplication.API.RazorTargetAssemblyInfo.cache
+C:\Users\Sasiru Hapuarachchi\source\repos\DemoApplicaiton\DemoApplication.API\obj\Debug\netcoreapp2.2\DemoApplication.API.csproj.CopyComplete
+C:\Users\Sasiru Hapuarachchi\source\repos\DemoApplicaiton\DemoApplication.API\obj\Debug\netcoreapp2.2\DemoApplication.API.dll
+C:\Users\Sasiru Hapuarachchi\source\repos\DemoApplicaiton\DemoApplication.API\obj\Debug\netcoreapp2.2\DemoApplication.API.pdb
+C:\Users\Sasiru Hapuarachchi\source\repos\DemoApplicaiton\DemoApplication.API\bin\Debug\netcoreapp2.2\DemoApplicaiton.DataAccessLayer.dll
+C:\Users\Sasiru Hapuarachchi\source\repos\DemoApplicaiton\DemoApplication.API\bin\Debug\netcoreapp2.2\DemoApplication.BusinessLayer.dll
+C:\Users\Sasiru Hapuarachchi\source\repos\DemoApplicaiton\DemoApplication.API\bin\Debug\netcoreapp2.2\DemoApplication.BusinessLayer.pdb
+C:\Users\Sasiru Hapuarachchi\source\repos\DemoApplicaiton\DemoApplication.API\bin\Debug\netcoreapp2.2\DemoApplicaiton.DataAccessLayer.pdb
+C:\Users\flash\Downloads\DemoApplicaiton\DemoApplication.API\bin\Debug\netcoreapp2.2\DemoApplication.API.deps.json
+C:\Users\flash\Downloads\DemoApplicaiton\DemoApplication.API\bin\Debug\netcoreapp2.2\DemoApplication.API.runtimeconfig.json
+C:\Users\flash\Downloads\DemoApplicaiton\DemoApplication.API\bin\Debug\netcoreapp2.2\DemoApplication.API.runtimeconfig.dev.json
+C:\Users\flash\Downloads\DemoApplicaiton\DemoApplication.API\bin\Debug\netcoreapp2.2\DemoApplication.API.dll
+C:\Users\flash\Downloads\DemoApplicaiton\DemoApplication.API\bin\Debug\netcoreapp2.2\DemoApplication.API.pdb
+C:\Users\flash\Downloads\DemoApplicaiton\DemoApplication.API\bin\Debug\netcoreapp2.2\DemoApplicaiton.DataAccessLayer.dll
+C:\Users\flash\Downloads\DemoApplicaiton\DemoApplication.API\bin\Debug\netcoreapp2.2\DemoApplication.BusinessLayer.dll
+C:\Users\flash\Downloads\DemoApplicaiton\DemoApplication.API\bin\Debug\netcoreapp2.2\DemoApplication.Entities.dll
+C:\Users\flash\Downloads\DemoApplicaiton\DemoApplication.API\bin\Debug\netcoreapp2.2\DTO.dll
+C:\Users\flash\Downloads\DemoApplicaiton\DemoApplication.API\bin\Debug\netcoreapp2.2\DemoApplication.BusinessLayer.pdb
+C:\Users\flash\Downloads\DemoApplicaiton\DemoApplication.API\bin\Debug\netcoreapp2.2\DTO.pdb
+C:\Users\flash\Downloads\DemoApplicaiton\DemoApplication.API\bin\Debug\netcoreapp2.2\DemoApplicaiton.DataAccessLayer.pdb
+C:\Users\flash\Downloads\DemoApplicaiton\DemoApplication.API\bin\Debug\netcoreapp2.2\DemoApplication.Entities.pdb
+C:\Users\flash\Downloads\DemoApplicaiton\DemoApplication.API\obj\Debug\netcoreapp2.2\DemoApplication.API.csproj.CoreCompileInputs.cache
+C:\Users\flash\Downloads\DemoApplicaiton\DemoApplication.API\obj\Debug\netcoreapp2.2\DemoApplication.API.RazorAssemblyInfo.cache
+C:\Users\flash\Downloads\DemoApplicaiton\DemoApplication.API\obj\Debug\netcoreapp2.2\DemoApplication.API.RazorAssemblyInfo.cs
+C:\Users\flash\Downloads\DemoApplicaiton\DemoApplication.API\obj\Debug\netcoreapp2.2\DemoApplication.API.AssemblyInfoInputs.cache
+C:\Users\flash\Downloads\DemoApplicaiton\DemoApplication.API\obj\Debug\netcoreapp2.2\DemoApplication.API.AssemblyInfo.cs
+C:\Users\flash\Downloads\DemoApplicaiton\DemoApplication.API\obj\Debug\netcoreapp2.2\DemoApplication.API.RazorTargetAssemblyInfo.cache
+C:\Users\flash\Downloads\DemoApplicaiton\DemoApplication.API\obj\Debug\netcoreapp2.2\DemoApplication.API.csproj.CopyComplete
+C:\Users\flash\Downloads\DemoApplicaiton\DemoApplication.API\obj\Debug\netcoreapp2.2\DemoApplication.API.dll
+C:\Users\flash\Downloads\DemoApplicaiton\DemoApplication.API\obj\Debug\netcoreapp2.2\DemoApplication.API.pdb
+C:\Users\flash\Downloads\DemoApplicaiton\DemoApplication.API\obj\Debug\netcoreapp2.2\DemoApplication.API.csprojAssemblyReference.cache
+C:\Users\Sasiru Hapuarachchi\Downloads\DemoApplicaiton\DemoApplication.API\obj\Debug\netcoreapp2.2\DemoApplication.API.csprojAssemblyReference.cache
+C:\Users\Sasiru Hapuarachchi\Downloads\DemoApplicaiton\DemoApplication.API\obj\Debug\netcoreapp2.2\DemoApplication.API.csproj.CoreCompileInputs.cache
+C:\Users\Sasiru Hapuarachchi\Downloads\DemoApplicaiton\DemoApplication.API\obj\Debug\netcoreapp2.2\DemoApplication.API.RazorAssemblyInfo.cache
+C:\Users\Sasiru Hapuarachchi\Downloads\DemoApplicaiton\DemoApplication.API\obj\Debug\netcoreapp2.2\DemoApplication.API.RazorAssemblyInfo.cs
+C:\Users\Sasiru Hapuarachchi\Downloads\DemoApplicaiton\DemoApplication.API\obj\Debug\netcoreapp2.2\DemoApplication.API.AssemblyInfoInputs.cache
+C:\Users\Sasiru Hapuarachchi\Downloads\DemoApplicaiton\DemoApplication.API\obj\Debug\netcoreapp2.2\DemoApplication.API.AssemblyInfo.cs
+C:\Users\Sasiru Hapuarachchi\Downloads\DemoApplicaiton\DemoApplication.API\obj\Debug\netcoreapp2.2\DemoApplication.API.dll
+C:\Users\Sasiru Hapuarachchi\Downloads\DemoApplicaiton\DemoApplication.API\obj\Debug\netcoreapp2.2\DemoApplication.API.pdb
+C:\Users\Sasiru Hapuarachchi\Downloads\DemoApplicaiton\DemoApplication.API\bin\Debug\netcoreapp2.2\DemoApplication.API.deps.json
+C:\Users\Sasiru Hapuarachchi\Downloads\DemoApplicaiton\DemoApplication.API\bin\Debug\netcoreapp2.2\DemoApplication.API.runtimeconfig.json
+C:\Users\Sasiru Hapuarachchi\Downloads\DemoApplicaiton\DemoApplication.API\bin\Debug\netcoreapp2.2\DemoApplication.API.runtimeconfig.dev.json
+C:\Users\Sasiru Hapuarachchi\Downloads\DemoApplicaiton\DemoApplication.API\bin\Debug\netcoreapp2.2\DemoApplication.API.dll
+C:\Users\Sasiru Hapuarachchi\Downloads\DemoApplicaiton\DemoApplication.API\bin\Debug\netcoreapp2.2\DemoApplication.API.pdb
+C:\Users\Sasiru Hapuarachchi\Downloads\DemoApplicaiton\DemoApplication.API\bin\Debug\netcoreapp2.2\DemoApplicaiton.DataAccessLayer.dll
+C:\Users\Sasiru Hapuarachchi\Downloads\DemoApplicaiton\DemoApplication.API\bin\Debug\netcoreapp2.2\DemoApplication.BusinessLayer.dll
+C:\Users\Sasiru Hapuarachchi\Downloads\DemoApplicaiton\DemoApplication.API\bin\Debug\netcoreapp2.2\DemoApplication.Entities.dll
+C:\Users\Sasiru Hapuarachchi\Downloads\DemoApplicaiton\DemoApplication.API\bin\Debug\netcoreapp2.2\DTO.dll
+C:\Users\Sasiru Hapuarachchi\Downloads\DemoApplicaiton\DemoApplication.API\bin\Debug\netcoreapp2.2\DemoApplication.BusinessLayer.pdb
+C:\Users\Sasiru Hapuarachchi\Downloads\DemoApplicaiton\DemoApplication.API\bin\Debug\netcoreapp2.2\DTO.pdb
+C:\Users\Sasiru Hapuarachchi\Downloads\DemoApplicaiton\DemoApplication.API\bin\Debug\netcoreapp2.2\DemoApplicaiton.DataAccessLayer.pdb
+C:\Users\Sasiru Hapuarachchi\Downloads\DemoApplicaiton\DemoApplication.API\bin\Debug\netcoreapp2.2\DemoApplication.Entities.pdb
+C:\Users\Sasiru Hapuarachchi\Downloads\DemoApplicaiton\DemoApplication.API\obj\Debug\netcoreapp2.2\DemoApplication.API.RazorTargetAssemblyInfo.cache
+C:\Users\Sasiru Hapuarachchi\Downloads\DemoApplicaiton\DemoApplication.API\obj\Debug\netcoreapp2.2\DemoApplication.API.csproj.CopyComplete

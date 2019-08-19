@@ -1,0 +1,36 @@
+C:\Users\Sasiru Hapuarachchi\source\repos\DemoApplicaiton\Entities\bin\Debug\netcoreapp2.2\DemoApplication.Entities.deps.json
+C:\Users\Sasiru Hapuarachchi\source\repos\DemoApplicaiton\Entities\bin\Debug\netcoreapp2.2\DemoApplication.Entities.runtimeconfig.json
+C:\Users\Sasiru Hapuarachchi\source\repos\DemoApplicaiton\Entities\bin\Debug\netcoreapp2.2\DemoApplication.Entities.runtimeconfig.dev.json
+C:\Users\Sasiru Hapuarachchi\source\repos\DemoApplicaiton\Entities\bin\Debug\netcoreapp2.2\DemoApplication.Entities.dll
+C:\Users\Sasiru Hapuarachchi\source\repos\DemoApplicaiton\Entities\bin\Debug\netcoreapp2.2\DemoApplication.Entities.pdb
+C:\Users\Sasiru Hapuarachchi\source\repos\DemoApplicaiton\Entities\obj\Debug\netcoreapp2.2\DemoApplication.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Sasiru Hapuarachchi\source\repos\DemoApplicaiton\Entities\obj\Debug\netcoreapp2.2\DemoApplication.Entities.AssemblyInfoInputs.cache
+C:\Users\Sasiru Hapuarachchi\source\repos\DemoApplicaiton\Entities\obj\Debug\netcoreapp2.2\DemoApplication.Entities.AssemblyInfo.cs
+C:\Users\Sasiru Hapuarachchi\source\repos\DemoApplicaiton\Entities\obj\Debug\netcoreapp2.2\DemoApplication.Entities.dll
+C:\Users\Sasiru Hapuarachchi\source\repos\DemoApplicaiton\Entities\obj\Debug\netcoreapp2.2\DemoApplication.Entities.pdb
+C:\Users\Sasiru Hapuarachchi\source\repos\DemoApplicaiton\Entities\obj\Debug\netcoreapp2.2\DemoApplication.Entities.csprojAssemblyReference.cache
+C:\Users\flash\Downloads\DemoApplicaiton\Entities\obj\Debug\netcoreapp2.2\DemoApplication.Entities.csproj.CoreCompileInputs.cache
+C:\Users\flash\Downloads\DemoApplicaiton\Entities\obj\Debug\netcoreapp2.2\DemoApplication.Entities.AssemblyInfoInputs.cache
+C:\Users\flash\Downloads\DemoApplicaiton\Entities\obj\Debug\netcoreapp2.2\DemoApplication.Entities.AssemblyInfo.cs
+C:\Users\flash\Downloads\DemoApplicaiton\Entities\bin\Debug\netcoreapp2.2\DemoApplication.Entities.deps.json
+C:\Users\flash\Downloads\DemoApplicaiton\Entities\bin\Debug\netcoreapp2.2\DemoApplication.Entities.runtimeconfig.json
+C:\Users\flash\Downloads\DemoApplicaiton\Entities\bin\Debug\netcoreapp2.2\DemoApplication.Entities.runtimeconfig.dev.json
+C:\Users\flash\Downloads\DemoApplicaiton\Entities\bin\Debug\netcoreapp2.2\DemoApplication.Entities.dll
+C:\Users\flash\Downloads\DemoApplicaiton\Entities\bin\Debug\netcoreapp2.2\DemoApplication.Entities.pdb
+C:\Users\flash\Downloads\DemoApplicaiton\Entities\obj\Debug\netcoreapp2.2\DemoApplication.Entities.csprojAssemblyReference.cache
+C:\Users\flash\Downloads\DemoApplicaiton\Entities\obj\Debug\netcoreapp2.2\DemoApplication.Entities.dll
+C:\Users\flash\Downloads\DemoApplicaiton\Entities\obj\Debug\netcoreapp2.2\DemoApplication.Entities.pdb
+C:\Users\Sasiru Hapuarachchi\Downloads\DemoApplicaiton\Entities\bin\Debug\netcoreapp2.2\DemoApplication.Entities.deps.json
+C:\Users\Sasiru Hapuarachchi\Downloads\DemoApplicaiton\Entities\bin\Debug\netcoreapp2.2\DemoApplication.Entities.runtimeconfig.json
+C:\Users\Sasiru Hapuarachchi\Downloads\DemoApplicaiton\Entities\bin\Debug\netcoreapp2.2\DemoApplication.Entities.runtimeconfig.dev.json
+C:\Users\Sasiru Hapuarachchi\Downloads\DemoApplicaiton\Entities\bin\Debug\netcoreapp2.2\DemoApplication.Entities.dll
+C:\Users\Sasiru Hapuarachchi\Downloads\DemoApplicaiton\Entities\bin\Debug\netcoreapp2.2\DemoApplication.Entities.pdb
+C:\Users\Sasiru Hapuarachchi\Downloads\DemoApplicaiton\Entities\obj\Debug\netcoreapp2.2\DemoApplication.Entities.csprojAssemblyReference.cache
+C:\Users\Sasiru Hapuarachchi\Downloads\DemoApplicaiton\Entities\obj\Debug\netcoreapp2.2\DemoApplication.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Sasiru Hapuarachchi\Downloads\DemoApplicaiton\Entities\obj\Debug\netcoreapp2.2\DemoApplication.Entities.AssemblyInfoInputs.cache
+C:\Users\Sasiru Hapuarachchi\Downloads\DemoApplicaiton\Entities\obj\Debug\netcoreapp2.2\DemoApplication.Entities.AssemblyInfo.cs
+C:\Users\Sasiru Hapuarachchi\Downloads\DemoApplicaiton\Entities\obj\Debug\netcoreapp2.2\DemoApplication.Entities.dll
+C:\Users\Sasiru Hapuarachchi\Downloads\DemoApplicaiton\Entities\obj\Debug\netcoreapp2.2\DemoApplication.Entities.pdb
+C:\Users\Sasiru Hapuarachchi\Downloads\DemoApplicaiton\Entities\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Sasiru Hapuarachchi\Downloads\DemoApplicaiton\Entities\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Identity.EntityFrameworkCore.xml
+C:\Users\Sasiru Hapuarachchi\Downloads\DemoApplicaiton\Entities\obj\Debug\netcoreapp2.2\DemoApplication.Entities.csproj.CopyComplete
